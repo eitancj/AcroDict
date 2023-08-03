@@ -1,5 +1,5 @@
 ## Classes for storing the Acronym Dictionaries as objects ##
-### used by main program AcroDict.py in the same folder ###
+## Used by main program AcroDict.py in the same folder ##
 
 class acroDict:
     def __init__(self, fileName, name, description = None):

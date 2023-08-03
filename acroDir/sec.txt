@@ -1,8 +1,10 @@
 # name : Security 
-SKIP# description : Security & Networking
+# description : better safe than sorry!
 
 TLS : Transport Layer Security
 SSL : Secure Sockets Layer
 HTTPS : Hypertext Transfer Protocol Secure
+OTP: One-time Password
 SSH : Secure Shell
 SFTP : Secure File Transfer Protocol
+2FA: Two-factor Authentication

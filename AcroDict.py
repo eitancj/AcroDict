@@ -1,4 +1,5 @@
-### Look up Acronyms ###
+### Acronym Lookup Tool ###
+# Python 3.11.4 #
 
 # Modules
 from classes import acroDict

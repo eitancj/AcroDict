@@ -1,5 +1,5 @@
 #name: Popular
-# DSADSAdescription : acronyms everybody knows
+# description : acronyms everybody knows
 AD : AcroDict! or Acronym Dictionary (;
 LOL : Laugh Out Loud
 FYI : For Your Information
