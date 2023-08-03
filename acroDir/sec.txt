@@ -1,0 +1,8 @@
+# name : Security 
+SKIP# description : Security & Networking
+
+TLS : Transport Layer Security
+SSL : Secure Sockets Layer
+HTTPS : Hypertext Transfer Protocol Secure
+SSH : Secure Shell
+SFTP : Secure File Transfer Protocol

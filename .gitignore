@@ -1,0 +1,8 @@
+# Python byte cache (.pyc files)
+__pycache__/
+
+# MacOS shit
+\.DS_Store
+
+# Tests
+sandbox.py

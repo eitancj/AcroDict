@@ -1,0 +1,15 @@
+# name : Software Development
+# SKIPdescription : programmers would recognise
+IDE : Integrated Development Environment
+FIFO : First In First Out
+LIFO : Last In First Out
+JSON : JavaScript Object Notation
+URI : Uniform Resource Identifier
+URL : Uniform Resource Locator
+OOP : Object-Oriented Programming
+TDD : Test-Driven Environment
+SaaS : Software as a Service
+UX : User Experience
+GUI : Graphic User Interface
+WWW : World Wide Web
+PBI : Product-Backlog Item

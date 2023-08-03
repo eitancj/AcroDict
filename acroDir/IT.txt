@@ -1,0 +1,11 @@
+# name : IT World
+# description :
+
+IT : Information Technology
+VM : Virtual Machine
+PaaS : Platform as a Service
+IaaS : Infrastructure as a Service
+DevOps : Development Operations
+IaC : Infrastructure as Code
+CI/CD : Continuous Integration and Continuous Delivery
+AWS : Amazon Web Services
