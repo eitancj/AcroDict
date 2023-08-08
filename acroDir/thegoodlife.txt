@@ -1,3 +1,4 @@
 # name : The Good Life!
 B&B : Bed and Breakfast
 BYOB : Bring Your Own Booze 
+YOLO: You Only Live Once
