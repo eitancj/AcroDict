@@ -8,3 +8,4 @@ OTP: One-time Password
 SSH : Secure Shell
 SFTP : Secure File Transfer Protocol
 2FA: Two-factor Authentication
+DDoS: Distributed Denial of Service
