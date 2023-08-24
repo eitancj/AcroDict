@@ -13,3 +13,4 @@ UX : User Experience
 GUI : Graphic User Interface
 WWW : World Wide Web
 PBI : Product-Backlog Item
+SDLC : Software Development Life Cycle
