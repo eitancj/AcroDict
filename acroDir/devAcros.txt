@@ -7,10 +7,11 @@ JSON : JavaScript Object Notation
 URI : Uniform Resource Identifier
 URL : Uniform Resource Locator
 OOP : Object-Oriented Programming
-TDD : Test-Driven Environment
+TDD : Test-Driven Development
 SaaS : Software as a Service
 UX : User Experience
 GUI : Graphic User Interface
 WWW : World Wide Web
 PBI : Product-Backlog Item
 SDLC : Software Development Life Cycle
+YAGNI : You Ain't Gonna Need It

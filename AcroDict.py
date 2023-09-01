@@ -1,5 +1,9 @@
-### Acronym Lookup Tool ###
-# Python 3.11.4 #
+###       AcroDict       ###
+#  ( acronym lookup tool ) #
+#       EitanCJ 2023       #
+#       Python 3.11.4      #
+### -------------------- ###
+
 
 # Modules
 from classes import acroDict
