@@ -2,16 +2,23 @@
 
 ![](https://github.com/eitancj/preview_images/blob/main/AcroDict_Preview_400.png?raw=true)
 
-Interactive Python tool for Acronym Lookup.\
-This is just a personal exercise of mine for practising python.\
 \
-Inspired by suggested rudimentary exercise created by Sara Holderness for the Python 3 Fundamentals course on Pluralsight.
+Interactive Python tool for Acronym Lookup.\
+This is just something I made in order to practice python.
 
-**Experimental. NOT official.**
+### Skills Practiced
+- Dictionaries
+- Functions
+- Classes
+- Regex
+- File Processing
+- Menu Parsing
+- Error Handling
 
 ### Current Functionalities
-- List available key-value (acronym-meaning) dictionaries
-- Display meaning for a given acronym, or a set of them
+- List available Acro-Dicts
+- Display meaning for a given acronym
+- Display meaning for all acronyms in a dictionary
 
 ### Intended Future Functionalities
 - Add new dictionary
@@ -19,12 +26,12 @@ Inspired by suggested rudimentary exercise created by Sara Holderness for the Py
 - Modify existing dictionary: add/mod/del a given key-value pair
 - Modify dictionary attributes
 
-### Testing done using
-- Python 3.11.4
-- Mac OS
-
-### App Stack
+### Prerequisites
 - Python3
+  
+### Tested On
+- Python 3.11.4
+- MacOS X
 
 ### Running the App
 ```
